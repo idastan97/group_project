@@ -1,2 +1,5 @@
-def print_my_name(name):
-    print(f"my name is {name}")
+from main import print_my
+
+
+def print_my_name():
+    print_my("adi")
