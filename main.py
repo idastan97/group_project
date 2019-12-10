@@ -12,3 +12,4 @@ if __name__ == "__main__":
     misha.print_my_name()
     dastan.print_my_name()
     adi.print_my_name()
+    yerbol.print_my_name()
